@@ -1,0 +1,2 @@
+# vangaCrake
+安卓VanGaTV（万佳TV）破解插件，搭配VirtualXposed软件可以无限试用，VanGaTV是一款电视直播软件，可以收看国内外港澳台几百套高清电视台，包括BBC、国家地理等付费频道
